@@ -1,0 +1,16 @@
+Brand: Gibson| Price: 2500.00| Quantity: 2
+ Guitar Type: Electric
+ Modifications: NumStrings:6 || Wood: Standard-Maple || Re-Wiried Electronics: No || Quality Index: 1.000000
+Brand: Taylor| Price: 1725.00| Quantity: 3
+ Guitar Type: Acoustic
+ Modifications: NumStrings:6 || Wood: maple || Re-Wiried Electronics: Yes || Quality Index: 1.000000
+Brand: Fender| Price: 1150.00| Quantity: 1
+ Guitar Type: Electric
+ Modifications: NumStrings:6 || Wood: ebony || Re-Wiried Electronics: Yes || Quality Index: 1.000000
+Brand: PRS| Price: 900.00| Quantity: 2
+ Guitar Type: Electric
+ Modifications: NumStrings:6 || Wood: rosewood || Re-Wiried Electronics: No || Quality Index: 1.000000
+
+Total Cost: 6275.0
+Tax: 815.75
+Amount Due: 7090.75

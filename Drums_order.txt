@@ -1,0 +1,10 @@
+Brand: Perl| Price: 6885.00| Quantity: 1
+ Modifications: Num Toms: 5 || Num Crash: 2|| Color: blue || Double Bass Added: No || Quality Index: 1.000000
+Brand: Ludwig| Price: 4125.00| Quantity: 2
+ Modifications: Num Toms: 3 || Num Crash: 2|| Color: grey || Double Bass Added: No || Quality Index: 1.000000
+Brand: Tama| Price: 4270.00| Quantity: 2
+ Modifications: Num Toms: 2 || Num Crash: 5|| Color: brown || Double Bass Added: No || Quality Index: 1.000000
+
+Total Cost: 15280.0
+Tax: 1986.4
+Amount Due: 17266.4
